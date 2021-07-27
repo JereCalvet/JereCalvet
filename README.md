@@ -14,6 +14,8 @@
 <a href="https://codepen.io/jerecalvet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jerecalvet" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jeremias-calvet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremias-calvet" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jere_calvet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jere_calvet" height="30" width="40" /></a>
+<a href="https://www.freecodecamp.org/jerecalvet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg" alt="freecodecamp" height="30" width="40" /></a>
+<a href="https://hyperskill.org/profile/38459599" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jetbrains.svg" alt="jetbrains" height="30" width="40" /></a>   
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
